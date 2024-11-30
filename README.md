@@ -20,9 +20,9 @@ This section shows the main steps I followed to achieve the goal.
   - Adapt The simulink slx file to what you need
   - finally create  robot interface control in matlab Grphical User Interface.
   - 
- ## Youtube Demo 
+ ##  Demo 
 
-##[![](https://markdown-videos.deta.dev/youtube/tjFVCCsYsh4)](https://youtu.be/tjFVCCsYsh4)
+
 
 
 ## Requirements
