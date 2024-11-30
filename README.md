@@ -2,7 +2,7 @@
 # Robotic_Arm_Real_Time_Control_Matlab_GUI
 Real Time simulation of a Robotic Arm Using Solidworks For Conception And Matlab Simulink Simscape for Simulation
 
-Using Matlab simulink + solidworks to simulate 7 dof robot forward kinematics
+Using Matlab simulink + solidworks to simulate 4 dof robot forward kinematics
 
 
 ## Main Flow
